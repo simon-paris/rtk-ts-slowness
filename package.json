@@ -1,0 +1,11 @@
+{
+  "name": "rtk-ts-slowness",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simon Paris <simon.paris@thecarousell.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "typescript": "^5.5.4"
+  }
+}
